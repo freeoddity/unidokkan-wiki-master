@@ -1,6 +1,5 @@
 ---
 Title: Getting Started with UniDokkan
-layout: Default
 Sort: 1
 ---
 This guide is for new or returning users of the UniDokkan patching system for Dokkan Battle.
